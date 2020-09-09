@@ -10,4 +10,4 @@ services:
       - POSTGRES_DB=postgres
       - POSTGRES_USER=postgres
       - POSTGRES_PASSWORD=postgres
-      - SERVER.PORT=localhost:9999/api/cards
+      
