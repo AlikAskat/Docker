@@ -8,7 +8,7 @@ services:
       - ./data:/var/lib/postgresql
     environment:
       - POSTGRES_RANDOM_ROOT_PASSWORD=yes
-      - POSTGRES_DB=e142125c6b2e2acf7a95264f0328806c4bfac6f023a45b09bf9ed595f4cc6043
+      - POSTGRES_DB=postgres
       - POSTGRES_USER=user
       - POSTGRES_PASSWORD=postgres
       
